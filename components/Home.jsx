@@ -36,7 +36,7 @@ const Home1 = () => {
         </div>
        </div>
     </div>
-  
+  )
 }
 
 export default Home1;
