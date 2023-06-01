@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link';
 import{MdOutlineKeyboardArrowRight} from "react-icons/md";
+import Image from 'next/image';
 
 
 const Home1 = () => {
@@ -32,7 +33,7 @@ const Home1 = () => {
           </button> */}
         </div>
         <div className='my-4 md:w-1/3 md:my-0'>
-          <img src='maam1.jpg' width="280px" alt='my profile' className='flex justify-center w-3/4 mx-auto rounded-[50%] md:w-full '/>
+          <Image src='maam1.jpg' width="280px" alt='my profile' className='flex justify-center w-3/4 mx-auto rounded-[50%] md:w-full '/>
         </div>
        </div>
     </div>
