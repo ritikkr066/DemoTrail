@@ -41,7 +41,7 @@ const Footer1 = () => {
                   <ul>
                     <li>Case Studies</li>
                     <li>Blog</li>
-                    <li>I'm a Clients</li>
+                    <li>I am a Clients</li>
                   </ul>
                 </div>
         
