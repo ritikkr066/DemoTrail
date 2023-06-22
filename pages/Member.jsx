@@ -22,7 +22,7 @@ const Member = () => {
         <div>Green Organic Sysnthesis, Multicomponenet reactions, Heterocycle Chemistry,Organocatalysis,Asymmetric Synthesis </div>
     </div>
     <div className='flex items-center justify-center px-4 py-4 sm:w-1/2 '>
-        <img src='maam1.jpg' width="280px" className='flex items-center justify-center rounded-[50%]'/>
+        <img src='maam1.jpg' width="280px"  className='flex items-center justify-center rounded-[50%]'/>
     </div>
     </div>
     {/* members */}

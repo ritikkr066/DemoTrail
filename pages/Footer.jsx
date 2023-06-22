@@ -5,8 +5,8 @@ import React from 'react'
 const Footer1 = () => {
   return (
     <div>
-      <footer>
-        <div class="container1 overflow-x-hidden">
+      <footer className='sticky bottom-0'>
+        <div class="container1 overflow-x-hidden sticky bottom-0">
             {/* <div class="logo">
                 <img src="National_Institute_of_Technology,_Patna_Logo.png" alt=""/>
             </div> */}

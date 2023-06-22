@@ -19,7 +19,7 @@ const Home1 = () => {
           <p className='flex flex-col md:flex-row'>
           <span className='text-white sm:pr-10 '>Email:<a href='tasneem@nitp.ac.in'>tasneem@nitp.ac.in</a></span>
           <span className='text-white'>phone No:9876543210</span></p>
-          <Link   className='font-medium text-white capitalize cursor-pointer ' href={'/Contactus'}><button className='flex items-center px-6 py-2 my-4 text-white rounded-md cursor-pointer group w-fit bg-gradient-to-r from-cyan-500 to-blue-500'>
+          <Link   className='font-medium text-white capitalize cursor-pointer ' href={'https://docs.google.com/forms/d/e/1FAIpQLScsmAP8GeM_b5ddHohW7xHWgjV3QAoKddninJZ2nyvx-ATAAA/viewform'}><button className='flex items-center px-6 py-2 my-4 text-white rounded-md cursor-pointer group w-fit bg-gradient-to-r from-cyan-500 to-blue-500'>
            Contact Me
              <span className='duration-300 group-hover:rotate-90'>
               <MdOutlineKeyboardArrowRight size={25} className='ml-1'/>
@@ -33,7 +33,7 @@ const Home1 = () => {
           </button> */}
         </div>
         <div className='my-4 md:w-1/3 md:my-0'>
-          <Image src='maam1.jpg' width="280px" alt='my profile' className='flex justify-center w-3/4 mx-auto rounded-[50%] md:w-full '/>
+          <img src='maam1.jpg' width="280px" alt='my profile' className='flex justify-center w-3/4 mx-auto rounded-[50%] md:w-full '/>
         </div>
        </div>
     </div>

@@ -1,9 +1,10 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react'
 
 const Publication = () => {
   return (
     <>
-     {/* <div className=' bg-[#E3D5CA] w-full  h-[100%]  '>
+      <div className=' bg-[#E3D5CA] w-full  h-[100%]  '>
     <div className='flex items-center justify-center py-2 text-3xl font-semibold bg-[#E3D5CA]'>PUBLICATION</div> 
     <div className='px-2 py-2 text-2xl font-semibold'>Journal Publications</div> 
     <ol className='px-6 '>
@@ -11,7 +12,7 @@ const Publication = () => {
         <li>⨠Abu T. Khan, Lokman H. Choudhury, Tasneem Parvin and Md. Asif Ali, "CeCl3⋅7H2O: An efficient and reusable catalyst for the preparation of β-acetamido carbonyl compounds by multi-component reactions (MCRs)", Tetrahedron Lett. (2006, 47, 8137-8141)</li>
         <li>⨠Abu T. Khan, Tasneem Parvin, Lokman H. Choudhury and Subrata Ghosh, "A simple and convenient synthetic protocol for oxidation of alkyl arenes into ketones using aqueous hydrogen bromide/hydrogen peroxide", Tetrahedron Lett. (2007, 48, 2271-2274)</li>
         <li>⨠Abu T. Khan, Tasneem Parvin and Lokman H. Choudhury, "Iron (III) chloride catalyzed convenient one-pot synthesis of β-acetamido carbonyl compounds", Tetrahedron (2007, 63, 5593-5601)</li>
-        <li>⨠Abu T. Khan, Tasneem Parvin, Sarifuddin Gazi and Lokman H. Choudhury, "Bromodimethylsulfonium bromide mediated aza-Micheal addition of amines to electron deficient alkenes", Tetrahedron Lett. (2007, 48, 3805-3808)</li>
+        <li>⨠Abu T. Khan, Tasneem Parvin, Sarifuddin Gazi and Lokman H. Choudhury, "Bromodimethylsulfonium bromide mediated aza-Micheal addition of amines to electron deficient alkenes ", Tetrahedron Lett. (2007, 48, 3805-3808)</li>
         <li>⨠Abu T. Khan, Tasneem Parvin, and Lokman H. Choudhury, "Bromodimethylsulfonium bromide (BDMS) catalyzed three-component Mannich-type reaction", Eur. J. Org. Chem. (2008, 834-839)</li>
         <li>⨠Abu T. Khan, Tasneem Parvin and Lokman H. Choudhury, "Effects of substituent in -position of 1, 3-Dicarbonyl Compounds in Bromodimethylsulfonium Bromide Catalyzed Multicomponent Reactions: A Facile Access to Functionalized Piperidines", J. Org. Chem. (2008, 73, 8398-8402)</li>
         <li>⨠Abu T. Khan, Tasneem Parvin and Lokman H. Choudhury, "A simple and convenient one-pot synthesis of benzimidazole derivatives using cobalt (II) chloride hexahydrate as catalyst", Synth. Comm. (2009, 39, 2339-2346)</li>
@@ -20,7 +21,7 @@ const Publication = () => {
         <li>⨠Lokman H. Choudhury and Tasneem Parvin, "Recent advances in the chemistry of imine-based multicomponent reactions (MCRs)", Tetrahedron (2011, 67, 8213-8228)</li>
         <li>⨠Suman Pal, Tasneem Parvin and Lokman H. Choudhury, "VCl3 catalyzed imine-based multicomponent reactions for the facile access of functionalized tetrahydropyridines and β-amino carbonyls", Molecular Diversity (2012, 16,129-143)</li>
         <li>⨠Md. Nasim Khan, Suman Pal, Tasneem Parvin and Lokman H. Choudhury, "A simple and efficient method for the facile access of highly functionalized pyridines and their fluorescence property studies", RSC Adv. (2012, 2, 12305-12314)</li>
-        <li>⨠Suman Pal, Lokman H. Choudhury and Tasneem Parvin, "One-pot multicomponent reactions for the efficient synthesis of highly functionalized dihydropyridines ", Synthetic Communications (2013, 43, 986-992)</li>
+        <li>⨠Suman Pal, Lokman H. Choudhury and Tasneem Parvin, "One-pot multicomponent reactions for the efficient synthesis of highly functionalized dihydropyridines ", Synthetic Communications (2013, 43, 986-992)</li> 
         <li>⨠S. Karamthulla, S. Pal, Tasneem Parvin and L. H. Choudhury, "L-proline catalyzed multicomponent reactions: Facile access to 2H-benzo[g]pyrazolo[3,4-b]quinoline-5,10(4H,11H)-dione derivatives", RSC Advances (2014, 4, 15319-15324)</li>
         <li>⨠Ruchi Bharti and Tasneem Parvin , "One-pot Synthesis of Highly Functionalized Tetrahydropyridines: A Camphoresulfonic acid Catalyzed Multicomponent Reaction", Journal of Heterocyclic Chemistry (2015, 52, 1806-1811)</li>
         <li>⨠Ruchi Bharti and Tasneem Parvin, "Molecular diversity from the L-proline catalyzed three component reactions of 4-hydroxycoumarin, aldehyde and 3-aminopyrazole or 1, 3-dimethyl-6-aminouracil", Synthetic Communications (2015, 45, 1442-1450)</li>
@@ -48,9 +49,9 @@ const Publication = () => {
         <li>⨠Aatka Mehar and Tasneem Parvin,*, "Synthesis of anthracene linked polycyclic pyridine derivatives fused with coumarin and pyrazole by one-pot multicomponent strategy followed by oxidation, ", Journal of Heterocyclic Chemistry (2023, Under Revision)</li>
         <li>⨠Ujjain Chaurasia and Tasneem Parvin* , "Synthesis of coumarin-linked polycyclic fused pyrrole derivatives by HFIP mediated multicomponent reaction", Journal of Chemical Sciences ( 2023, Under Revision)</li>
     </ol>
-    </div> */}
+    </div> 
     </>
   )
 }
 
-export default Publication
+export default Publication 

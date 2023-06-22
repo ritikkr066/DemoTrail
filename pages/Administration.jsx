@@ -5,14 +5,14 @@ const Administration = () => {
     <>
     
      <div className=' bg-[#E3D5CA] w-full h-[100%] pb-6  '>
-      <div className='px-1 py-2 font-mono text-2xl sm:text-3xl '>Current Administrative Responsibility</div>
+      <div className='px-1 py-2 font-serif text-2xl sm:text-3xl '>Current Administrative Responsibility</div>
       <ol className='px-6 font-semibold'>
       <li className=''>Academic Audit Coordinator, Department of Chemistry </li>
       <li className=''>Annual Progress Report Coordinator, Department of Chemistry </li>
       <li className=''>Member of BOS, Department of Chemistry </li>
       <li className=''>Member of DRC </li>
       </ol>
-      <div className='px-1 py-2 font-mono text-2xl sm:text-3xl'>Past Administrative Responsibility</div>
+      <div className='px-1 py-2 font-serif text-2xl sm:text-3xl'>Past Administrative Responsibility</div>
       <ol className='px-6 font-semibold'>
       <li className=''>Head of the Department, Department of Chemistry </li>
       <li className=''>Member of ACoFAR, </li>
